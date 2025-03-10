@@ -1,6 +1,8 @@
 # Wiki Shorts
 
-A project built for the HackGTeeny GITMAD workshop mini-hackathon, Wiki Shorts reimagines educational content consumption in today's short-form content era.
+A project built for the HackGTeeny GITMAD workshop hackathon, Wiki Shorts reimagines educational content consumption in today's short-form content era.
+
+🏆 Winner of the HackGTeeny GITMAD workshop hackathon
 
 ## Project Overview
 
